@@ -1,0 +1,29 @@
+.Logo {
+  display: block;
+  margin: auto;
+  width: 360px;
+  height: 488px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#Boton {
+  width: 100px;
+  height: 30px;
+  display: block;
+  margin: 10px auto;
+  background-color: red;
+}
+
+.facebook {
+  align: right;
+  width: 110px;
+  height: 100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.gmail { 
+width: 110px;
+height: 100px;
+margin-left: auto;
+margin-right: auto;
+}

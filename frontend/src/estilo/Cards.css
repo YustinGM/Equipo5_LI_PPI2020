@@ -1,0 +1,12 @@
+.card-deck {
+  margin: 0 auto;
+  }
+
+    @media (max-width: 640px) {
+    .card-deck {
+      margin-left: 50px;
+      margin-right: 40px;
+    }
+  }
+
+  

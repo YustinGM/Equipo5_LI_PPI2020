@@ -1,0 +1,30 @@
+
+#Carrusel {
+  border: 2px solid blue;
+}
+#Logo {
+  border: 2px solid blue;
+}
+
+#Inicio {
+  margin: 10px auto;
+  background-color: red;
+}
+
+#Regristrar {
+  margin: 10px auto;
+  background-color: red;
+}
+.facebook {
+  align: right;
+  width: 30px;
+  height: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.gmail { 
+width: 350px;
+height: 300px;
+margin-left: auto;
+margin-right: auto;
+}

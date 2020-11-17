@@ -1,0 +1,24 @@
+#absoluto {
+
+  margin: 11px 39px;
+  border: 10px groove #ffffff;
+  padding: 10px;
+  width: 338px;
+  height: 370px;
+
+}
+h2{
+margin: 1px 9px;
+border: 12px groove #8aecd7;
+background-color: #fafafa;
+padding: 11px;
+width: 304px;
+height: 120px;
+}
+.foto{
+margin: 1px 1px;
+padding: 20px;
+width: 278px;
+height: 270px;
+
+}
